@@ -1,15 +1,15 @@
 export const Bio = {
   name: "Hassan Mehmood",
   roles: [
+    "Web Developer",
     "Full Stack Developer",
-    "UI/UX Designer",
     "Programmer",
   ],
   description:
     "I am a motivated and versatile individual with a passion for learning and taking on new challenges. As a full-stack developer, I am dedicated to delivering high-quality results, leveraging my expertise in both front-end and back-end technologies. I am committed to continuously improving my skills and staying up-to-date with the latest technologies to create impactful, user-centric web applications.",
   github: "https://github.com/js24626",
   resume:
-    "https://drive.google.com/file/d/1FhwxyTZtZ-W0NRv8sLXDH96g8Bb8DlMR/view?usp=drive_link",
+    "https://drive.google.com/file/d/1zF3V_L_l06Ufs914du9XVbNSX-T1Rqn2/view?usp=sharing://drive.google.com/file/d/1FhwxyTZtZ-W0NRv8sLXDH96g8Bb8DlMR/view?usp=drive_link",
   
   
 };
@@ -94,8 +94,6 @@ export const skills = [
      
     ],
   },
-  
-  
   
     
   {

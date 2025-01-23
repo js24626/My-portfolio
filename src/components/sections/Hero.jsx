@@ -251,7 +251,7 @@ const Hero = () => {
                 <SubTitle>{Bio.description}</SubTitle>
               </motion.div>
 
-              <ResumeButton href={Bio.resume} target="_blank">
+              <ResumeButton href={Bio.resume} target="">
                 Check Resume
               </ResumeButton>
             </HeroLeftContainer>
