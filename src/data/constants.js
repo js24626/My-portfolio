@@ -231,16 +231,16 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Bootstrap Made",
+    title: "Tech-web-design",
     date: "nov 2024",
     description:
-      "Bootstrap Made  web application using React.js with Tailwind.css. Designed to your business Plateforms tp grow your business and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
+      "Tech-web-design  using Html,Css ,Javascript with Tailwind.css. Designed to your business Plateforms tp grow your business and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
     image:
-    "https://raw.githubusercontent.com/js24626/task-2/main/public/images/busines.JPG",
+    "https://raw.githubusercontent.com/js24626/Tech-Website-Design/master/Images/web.JPG",
     
     category: "web app",
-    github: "https://github.com/js24626/task-2",
-    webapp: "https://task-2-orcin.vercel.app/",
+    github: "https://github.com/js24626/Tech-Website-Design",
+    webapp: "https://tech-website-design.vercel.app/",
   },
   {
     id: 0,
