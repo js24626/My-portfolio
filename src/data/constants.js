@@ -236,7 +236,7 @@ export const projects = [
     description:
       "Tech-web-design  using Html,Css ,Javascript with Tailwind.css. Designed to your business Plateforms tp grow your business and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
     image:
-    "https://raw.githubusercontent.com/js24626/Tech-Website-Design/master/Images/web.JPG",
+    "https://github.com/js24626/Tech-Website-Design/blob/master/Images/web.JPG",
     
     category: "web app",
     github: "https://github.com/js24626/Tech-Website-Design",
