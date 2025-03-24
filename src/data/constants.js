@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual with a passion for learning and taking on new challenges. As a full-stack developer, I am dedicated to delivering high-quality results, leveraging my expertise in both front-end and back-end technologies. I am committed to continuously improving my skills and staying up-to-date with the latest technologies to create impactful, user-centric web applications.",
   github: "https://github.com/js24626",
   resume:
-    "https://drive.google.com/file/d/1zF3V_L_l06Ufs914du9XVbNSX-T1Rqn2/view?usp=sharing://drive.google.com/file/d/1FhwxyTZtZ-W0NRv8sLXDH96g8Bb8DlMR/view?usp=drive_link",
+    "https://drive.google.com/file/d/1P-JFSD6gLGbMLkZ4wf81B1WuIzxElwIp/view?usp=sharing",
   
   
 };
@@ -131,11 +131,28 @@ export const skills = [
 
 export const experiences = [
   {
+    "id": 1,
+    "img": "https://media.licdn.com/dms/image/v2/D4D0BAQGKoORF1gTO5A/company-logo_200_200/B4DZU9DMT9HIAI-/0/1740486002579/infinityblockchainsolutions_logo?e=1748476800&v=beta&t=jHWPOOW6Ez5GB11iDC3VX5mU0frRzdni23Neos0GPdM",
+    "role": "Frontend Developer",
+    "company": "Infinity Blockchain Solutions",
+    "date": "Feb 2025 - Present",
+    "desc": "Currently working as a Frontend Developer, where I specialize in designing and developing visually engaging, fully functional websites. Leveraging my expertise in HTML, CSS, JavaScript, and React.js, I create dynamic and interactive user interfaces with smooth animations and seamless user experiences. My work involves implementing cutting-edge frontend technologies to enhance blockchain-based platforms, ensuring optimal performance, responsiveness, and aesthetic appeal. Through a combination of creative design and technical precision, I contribute to building high-quality web solutions that align with the company’s vision and industry standards.",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ReactJS"
+    ]
+},
+
+
+
+  {
     id: 0,
     img: 'https://media.licdn.com/dms/image/v2/D4D0BAQHCX_ZL1gU6tw/company-logo_200_200/company-logo_200_200/0/1687901943738?e=1743638400&v=beta&t=Y7aAIYjeaDCk5lE9jss93F4tsJuBuONs29fzi-Um0o4',
     role: "Full Stack Developer Intern",
     company: "Logixcy Technology",
-    date: "nov 2024 - jan 2025",
+    date: "aug 2024 - feb 2025",
     desc: "During my internship as a Full Stack Developer, I showcased my ability to manage web portals and create intuitive user interfaces using React.js, JavaScript, TypeScript, and Next.js. I effectively utilized PostgreSQL for database management, Postman for API testing, and Drizzle for seamless database integration, delivering robust and user-friendly applications.",
     skills: [
       "ReactJS",
@@ -149,7 +166,7 @@ export const experiences = [
       "Drizzle",
       "Postman"
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
+   
   },
   
   
@@ -172,7 +189,7 @@ export const experiences = [
       
       
     ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+    
   },
  
   {
