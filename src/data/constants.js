@@ -234,6 +234,19 @@ export const education = [
 
 export const projects = [
   {
+    id: 10,
+    title: "Articulate",
+    date: "july 2024 - ",
+    description:
+      " UI of a Custom Company and  Using Html,Css ,Javascript,Tailwind.css and totally responsive  which company services for start buisness. ",
+    image:
+      "https://raw.githubusercontent.com/js24626/Articulate/main/images/Articulate.JPG",
+      
+    category: "web app",
+    github: "https://github.com/js24626/Articulate",
+    webapp: "https://articulate-teal.vercel.app/",
+  },
+  {
     id: 11,
     title: "Ezitech Institute",
     date: "july 2024 - ",
