@@ -233,10 +233,27 @@ export const education = [
 ];
 
 export const projects = [
+    {
+      id: 10,
+    title: "BankBee",
+    date: "March 2025  ",
+    description:
+      " I designed and developed a fully responsive banking website using HTML, CSS (Tailwind CSS), and JavaScript. The website provides a modern, user-friendly interface with seamless navigation and interactive elements. ",
+    image:
+   " https://raw.githubusercontent.com/js24626/Banking-Website/main/images/bank.JPG",
+      // "https://github.com/js24626/Banking-Website/main/images/bank.JPG",
+      
+    category: "web app",
+    github: "https://github.com/js24626/Banking-Website",
+    webapp: "https://banking-website-green.vercel.app/",
+  },
+
+
+  
   {
     id: 10,
     title: "Articulate",
-    date: "july 2024 - ",
+    date: "feb 2025  ",
     description:
       " UI of a Custom Company and  Using Html,Css ,Javascript,Tailwind.css and totally responsive  which company services for start buisness. ",
     image:
@@ -249,7 +266,7 @@ export const projects = [
   {
     id: 11,
     title: "Ezitech Institute",
-    date: "july 2024 - ",
+    date: "feb 2025 - ",
     description:
       " UI of a Software Company and Institue Using React.js,Tailwind.css and totally responsive  which provide Internships and courses for Intern and students",
     image:
@@ -262,7 +279,7 @@ export const projects = [
   {
     id: 9,
     title: "Tech-web-design",
-    date: "nov 2024",
+    date: "feb 2025",
     description:
       "Tech-web-design  using Html,Css ,Javascript with Tailwind.css. Designed to your business Plateforms tp grow your business and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently.",
     image:
@@ -287,7 +304,7 @@ export const projects = [
    
   },
   {
-    id: 1,
+    id: 3,
     title: "Dynamic-StickyNotes",
     date: " May 2024",
     description:
@@ -300,7 +317,7 @@ export const projects = [
     webapp: "https://sticky-notes-drab-nu.vercel.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Words Scramble Words",
     date: "Jan 2024 ",
     description:
