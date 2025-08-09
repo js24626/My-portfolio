@@ -132,7 +132,7 @@ export const skills = [
 export const experiences = [
   {
     "id": 1,
-    "img": "https://media.licdn.com/dms/image/v2/D4D0BAQGKoORF1gTO5A/company-logo_200_200/B4DZU9DMT9HIAI-/0/1740486002579/infinityblockchainsolutions_logo?e=1748476800&v=beta&t=jHWPOOW6Ez5GB11iDC3VX5mU0frRzdni23Neos0GPdM",
+    "img": "/infinty.JPG",
     "role": "Frontend Developer",
     "company": "Infinity Blockchain Solutions",
     "date": "Feb 2025 - Present",
@@ -149,7 +149,7 @@ export const experiences = [
 
   {
     id: 0,
-    img: 'https://media.licdn.com/dms/image/v2/D4D0BAQHCX_ZL1gU6tw/company-logo_200_200/company-logo_200_200/0/1687901943738?e=1743638400&v=beta&t=Y7aAIYjeaDCk5lE9jss93F4tsJuBuONs29fzi-Um0o4',
+    img: 'logic.JPG',
     role: "Full Stack Developer Intern",
     company: "Logixcy Technology",
     date: "aug 2024 - feb 2025",
@@ -235,6 +235,22 @@ export const education = [
 export const projects = [
     {
       id: 10,
+    title: "IronCoreGYM",
+    date: "March 2025  ",
+    description:
+      " I built a fully responsive IronCoreGYM website with HTML, CSS (Tailwind CSS), and JavaScript — featuring a modern interface, smooth navigation, interactive elements, online membership purchase, and a contact form for quick bookings. ",
+    image:
+   " /ironcore.JPG",
+      // "https://github.com/js24626/Banking-Website/main/images/bank.JPG",
+      
+    category: "web app",
+    github: "https://github.com/js24626/Ironcore-Gym",
+    webapp: "https://ironcore-gym.vercel.app/",
+  },
+ 
+
+      {
+      id: 19,
     title: "BankBee",
     date: "March 2025  ",
     description:
@@ -247,7 +263,6 @@ export const projects = [
     github: "https://github.com/js24626/Banking-Website",
     webapp: "https://banking-website-green.vercel.app/",
   },
-
 
   
   {
