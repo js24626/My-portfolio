@@ -97,30 +97,6 @@ const Button = styled.a`
 
 const ProjectCard = ({ project }) => {
   return (
-<<<<<<< HEAD
-    <a href={project.webapp} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none' }}>
-      <Card>
-        <Image src={project.image} />
-        <Tags></Tags>
-        <Details>
-          <Title>{project.title}</Title>
-          <Date>{project.date}</Date>
-          <Description>{project.description}</Description>
-        </Details>
-        <Members>
-          {project.member?.map((member) => (
-            <Avatar src={member.img} alt={member.name} key={member.name} />
-          ))}
-        </Members>
-        <Button href={project.github} target="_blank">
-          View Code
-        </Button>
-      </Card>
-    </a>
-  );
-};
-
-=======
     <Card onClick={() => window.open(project.webapp, "_blank")} style={{ cursor: "pointer" }}>
       <Image src={project.image} />
       <Tags />
@@ -141,6 +117,4 @@ const ProjectCard = ({ project }) => {
   );
 };
 
-
->>>>>>> 7bdbbe5 (Updated)
 export default ProjectCard;

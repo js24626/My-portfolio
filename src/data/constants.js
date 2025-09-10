@@ -9,13 +9,8 @@ export const Bio = {
     "I am a motivated and versatile individual with a passion for learning and taking on new challenges. As a full-stack developer, I am dedicated to delivering high-quality results, leveraging my expertise in both front-end and back-end technologies. I am committed to continuously improving my skills and staying up-to-date with the latest technologies to create impactful, user-centric web applications.",
   github: "https://github.com/js24626",
   resume:
-<<<<<<< HEAD
     "https://drive.google.com/file/d/1P-JFSD6gLGbMLkZ4wf81B1WuIzxElwIp/view?usp=sharing",
-=======
-    "https://drive.google.com/file/d/1Bctc-Dx6OSh9yETMV3UXmQqxRz2jP3K2/view",
->>>>>>> 7bdbbe5 (Updated)
-  
-  
+
 };
 
 export const skills = [
@@ -237,6 +232,21 @@ export const education = [
 ];
 
 export const projects = [
+   {
+      id: 11,
+    title: "COURSES-HUB",
+    date: "March 2025  ",
+    description:
+      " Courses Hub is a responsive and modern landing page designed for online classrooms, e-learning platforms, and digital courses. It is built using only HTML, Tailwind CSS, and vanilla JavaScript ",
+    
+    image:" /courses.PNG", // "https://github.com/js24626/Banking-Website/main/images/bank.JPG",
+      
+    category: "Web app",
+    github: "https://github.com/js24626/courses-hub",
+    webapp: "https://courses-hub-ten.vercel.app/",
+  },
+
+
     {
       id: 10,
     title: "IronCoreGYM",
@@ -282,19 +292,7 @@ export const projects = [
     github: "https://github.com/js24626/Articulate",
     webapp: "https://articulate-teal.vercel.app/",
   },
-  {
-    id: 11,
-    title: "Ezitech Institute",
-    date: "feb 2025 - ",
-    description:
-      " UI of a Software Company and Institue Using React.js,Tailwind.css and totally responsive  which provide Internships and courses for Intern and students",
-    image:
-      "https://github.com/js24626/Ezitech/raw/main/src/assets/Images/ezite.JPG",
-    
-    category: "web app",
-    github: "https://github.com/js24626/Ezitech",
-    webapp: "https://ezitech-sl8i.vercel.app/",
-  },
+
   {
     id: 9,
     title: "Tech-web-design",
