@@ -9,14 +9,10 @@ export const Bio = {
     "I am a motivated and versatile individual with a passion for learning and taking on new challenges. As a full-stack developer, I am dedicated to delivering high-quality results, leveraging my expertise in both front-end and back-end technologies. I am committed to continuously improving my skills and staying up-to-date with the latest technologies to create impactful, user-centric web applications.",
   github: "https://github.com/js24626",
   resume:
-<<<<<<< HEAD
-    "https://drive.google.com/file/d/1P-JFSD6gLGbMLkZ4wf81B1WuIzxElwIp/view?usp=sharing",
 
-=======
+    
+
     "https://drive.google.com/file/d/1Bctc-Dx6OSh9yETMV3UXmQqxRz2jP3K2/view",
-  
-  
->>>>>>> 7bdbbe5246a356471d338d0993460380d465c59f
 };
 
 export const skills = [
@@ -238,7 +234,7 @@ export const education = [
 ];
 
 export const projects = [
-<<<<<<< HEAD
+
    {
       id: 11,
     title: "COURSES-HUB",
@@ -254,8 +250,7 @@ export const projects = [
   },
 
 
-=======
->>>>>>> 7bdbbe5246a356471d338d0993460380d465c59f
+
     {
       id: 10,
     title: "IronCoreGYM",
@@ -301,23 +296,10 @@ export const projects = [
     github: "https://github.com/js24626/Articulate",
     webapp: "https://articulate-teal.vercel.app/",
   },
-<<<<<<< HEAD
 
-=======
-  {
-    id: 11,
-    title: "Ezitech Institute",
-    date: "feb 2025 - ",
-    description:
-      " UI of a Software Company and Institue Using React.js,Tailwind.css and totally responsive  which provide Internships and courses for Intern and students",
-    image:
-      "https://github.com/js24626/Ezitech/raw/main/src/assets/Images/ezite.JPG",
-    
-    category: "web app",
-    github: "https://github.com/js24626/Ezitech",
-    webapp: "https://ezitech-sl8i.vercel.app/",
-  },
->>>>>>> 7bdbbe5246a356471d338d0993460380d465c59f
+
+
+
   {
     id: 9,
     title: "Tech-web-design",
