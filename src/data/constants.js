@@ -238,7 +238,7 @@ export const projects = [
    {
       id: 11,
     title: "COURSES-HUB",
-    date: "March 2025  ",
+    date: "Sep 2025  ",
     description:
       " Courses Hub is a responsive and modern landing page designed for online classrooms, e-learning platforms, and digital courses. It is built using only HTML, Tailwind CSS, and vanilla JavaScript ",
     
@@ -247,6 +247,21 @@ export const projects = [
     category: "Web app",
     github: "https://github.com/js24626/courses-hub",
     webapp: "https://courses-hub-ten.vercel.app/",
+  },
+
+
+  {
+      id: 2,
+    title: "Audio Mart",
+    date: "Aug 2025  ",
+    description:
+      "AudioMart is a modern e-commerce web app focused on audio products (headphones, speakers, earphones, etc.).It’s built with React.js (and structured for scalability) to provide a clean shopping experience with features like cart management, product filters, and responsive design ",
+    
+    image:" /audio.PNG",
+      
+    category: "Web app",
+    github: "https://github.com/js24626/AudioMart",
+    webapp: "https://audio-mart.vercel.app/",
   },
 
 
@@ -314,7 +329,7 @@ export const projects = [
     webapp: "https://tech-website-design.vercel.app/",
   },
   {
-    id: 0,
+    id: 1,
     title: "Facebook UI",
     date: "oct 2024",
     description:
@@ -328,7 +343,7 @@ export const projects = [
    
   },
   {
-    id: 3,
+    id: 5,
     title: "Dynamic-StickyNotes",
     date: " May 2024",
     description:
