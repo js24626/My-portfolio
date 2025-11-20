@@ -242,7 +242,7 @@ export const projects = [
     description:
       "Bikers Corners – A modern off-road mountain motorbiking website built with React.js and Tailwind CSS, showcasing tours, guides, and adventure experiences across Pakistan’s scenic terrains.",
     image:
-    "/bikers.png",
+    "/bikers.PNG",
     
     category: "web app",
     github: "https://github.com/js24626/Bikers_Corners",
