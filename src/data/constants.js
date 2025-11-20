@@ -235,6 +235,21 @@ export const education = [
 
 export const projects = [
 
+    {
+    id: 1,
+    title: "Bikers Corners",
+    date: "oct 2024",
+    description:
+      "Bikers Corners – A modern off-road mountain motorbiking website built with React.js and Tailwind CSS, showcasing tours, guides, and adventure experiences across Pakistan’s scenic terrains.",
+    image:
+    "/bikers.png",
+    
+    category: "web app",
+    github: "https://github.com/js24626/Bikers_Corners",
+    webapp: "https://bikers-corners-two.vercel.app/",
+   
+  },
+
    {
       id: 11,
     title: "COURSES-HUB",
@@ -328,20 +343,7 @@ export const projects = [
     github: "https://github.com/js24626/Tech-Website-Design",
     webapp: "https://tech-website-design.vercel.app/",
   },
-  {
-    id: 1,
-    title: "Facebook UI",
-    date: "oct 2024",
-    description:
-      "Developed a Front-end web application  of facebook using next.js, Tailwind.css, Next-auth  that allows users to signup and signin the form. ",
-    image:
-    "https://raw.githubusercontent.com/js24626/Facebook-ui/main/public/facebook.JPG",
-    
-    category: "web app",
-    github: "https://github.com/js24626/Facebook-ui",
-    webapp: "https://facebook-ui-indol.vercel.app/",
-   
-  },
+
   {
     id: 5,
     title: "Dynamic-StickyNotes",
