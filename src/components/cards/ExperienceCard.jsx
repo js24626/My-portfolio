@@ -93,6 +93,7 @@ const ExperienceCard = ({ experience }) => {
           alt={experience?.company}
           style={{ borderRadius: "50%", objectFit: "cover" }}
           src={experience?.img}
+          loading="lazy"
         />
       }
       contentStyle={{
@@ -112,7 +113,7 @@ const ExperienceCard = ({ experience }) => {
       date={experience?.date}
     >
       <Top>
-        <Image src={experience?.img} />
+        <Image src={experience?.img} loading="lazy" />
         <Body>
           <Role>{experience?.role}</Role>
           <Company>{experience?.company}</Company>

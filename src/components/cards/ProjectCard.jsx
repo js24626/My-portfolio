@@ -98,7 +98,7 @@ const Button = styled.a`
 const ProjectCard = ({ project }) => {
   return (
     <Card onClick={() => window.open(project.webapp, "_blank")} style={{ cursor: "pointer" }}>
-      <Image src={project.image} />
+      <Image src={project.image} alt={project.title} loading="lazy" />
       <Tags />
       <Details>
         <Title>{project.title}</Title>
@@ -107,7 +107,7 @@ const ProjectCard = ({ project }) => {
       </Details>
       <Members>
         {project.member?.map((member) => (
-          <Avatar src={member.img} alt={member.name} key={member.name} />
+          <Avatar src={member.img} alt={member.name} loading="lazy" key={member.name} />
         ))}
       </Members>
       <Button as="a" href={project.github} target="_blank">

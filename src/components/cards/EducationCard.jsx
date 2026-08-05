@@ -81,6 +81,7 @@ const EducationCard = ({ education }) => {
           alt={education?.school}
           style={{ borderRadius: "50%", objectFit: "cover" }}
           src={education?.img}
+          loading="lazy"
         />
       }
       contentStyle={{
@@ -100,7 +101,7 @@ const EducationCard = ({ education }) => {
       date={education?.date}
     >
       <Top>
-        <Image src={education?.img} />
+        <Image src={education?.img} loading="lazy" />
         <Body>
           <School>{education?.school}</School>
           <Degree>{education?.degree}</Degree>
