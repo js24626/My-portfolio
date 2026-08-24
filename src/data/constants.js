@@ -12,7 +12,7 @@ export const Bio = {
 
     
 
-    "https://drive.google.com/file/d/1Bctc-Dx6OSh9yETMV3UXmQqxRz2jP3K2/view",
+    "https://drive.google.com/file/d/12CMtYGX_hrVHa9PtapLfIzQRFwM5eksD/view?usp=drive_link",
 };
 
 export const skills = [
