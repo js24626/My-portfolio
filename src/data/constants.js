@@ -12,7 +12,7 @@ export const Bio = {
 
     
 
-    "https://drive.google.com/file/d/12CMtYGX_hrVHa9PtapLfIzQRFwM5eksD/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Bctc-Dx6OSh9yETMV3UXmQqxRz2jP3K2/view",
 };
 
 export const skills = [
@@ -253,6 +253,18 @@ export const projects = [
   webapp: "https://talent-stage.vercel.app/"
 },
 
+ {
+  id: 4,
+  title: "Ai-Chatbot",
+  date: "Sep 2026",
+  description: "Ai-Chatbot is an AI-powered chatbot designed to provide intelligent conversation and support across various domains. It features natural language processing and machine learning capabilities to deliver accurate and helpful responses.",
+  image: "/chatbot.PNG", // put a screenshot named chatbot.PNG in public/
+  category: "web app",
+  github: "https://github.com/js24626/Ai-Chatbot", // optional
+  webapp: "https://ai-chatbot-gtzugwmmrcx2ftcwxprt4e.streamlit.app/"
+},
+
+
     {
     id: 1,
     title: "Bikers Corners",
@@ -300,7 +312,7 @@ export const projects = [
 
 
     {
-      id: 10,
+      id: 3,
     title: "IronCoreGYM",
     date: "March 2025  ",
     description:
